@@ -1,0 +1,906 @@
+[
+  {
+    "id": 1,
+    "text": "he is a hardworking and displine about our work.",
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "details": {
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "compound": 0.0
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "hardworking",
+      "displine",
+      "work"
+    ],
+    "timestamp": "2026-03-24T16:43:59.817703"
+  },
+  {
+    "id": 2,
+    "text": "he is a  very hardworking and displine about our work.",
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "details": {
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "compound": 0.0
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "hardworking",
+      "displine",
+      "work"
+    ],
+    "timestamp": "2026-03-24T16:44:16.812049"
+  },
+  {
+    "id": 3,
+    "text": "he is a  very hardworking and nice and displine about our work.",
+    "sentiment": "Positive",
+    "score": 0.4703,
+    "details": {
+      "pos": 0.218,
+      "neu": 0.782,
+      "neg": 0.0,
+      "compound": 0.4703
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 0.9167,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "hardworking",
+      "nice",
+      "displine",
+      "work"
+    ],
+    "timestamp": "2026-03-24T16:44:25.090744"
+  },
+  {
+    "id": 4,
+    "text": "The Artificial Intelligence subject was very interesting and informative. The concepts were explained clearly, and practical examples helped in better understanding. The subject enhanced my problem-solving skills and gave me insight into real-world AI applications. Overall, it was a valuable learning experience.",
+    "sentiment": "Positive",
+    "score": 0.9299,
+    "details": {
+      "pos": 0.286,
+      "neu": 0.714,
+      "neg": 0.0,
+      "compound": 0.9299
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.4532,
+    "ai_features": {
+      "vocabulary_diversity": 0.8571,
+      "sentence_consistency": 0.1795,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.75
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "subject",
+      "artificial",
+      "intelligence",
+      "interesting",
+      "informative",
+      "concepts",
+      "explained",
+      "clearly"
+    ],
+    "timestamp": "2026-03-24T18:41:32.707233"
+  },
+  {
+    "id": 5,
+    "text": "very nice subject",
+    "sentiment": "Positive",
+    "score": 0.4754,
+    "details": {
+      "pos": 0.607,
+      "neu": 0.393,
+      "neg": 0.0,
+      "compound": 0.4754
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "nice",
+      "subject"
+    ],
+    "timestamp": "2026-04-02T00:01:23.872329"
+  },
+  {
+    "id": 6,
+    "text": "very nicce subject",
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "details": {
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "compound": 0.0
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "nicce",
+      "subject"
+    ],
+    "timestamp": "2026-04-02T00:01:34.363321"
+  },
+  {
+    "id": 7,
+    "text": "very niice subject.",
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "details": {
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "compound": 0.0
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "niice",
+      "subject"
+    ],
+    "timestamp": "2026-04-02T00:02:09.359593"
+  },
+  {
+    "id": 8,
+    "text": "very nice",
+    "sentiment": "Positive",
+    "score": 0.4754,
+    "details": {
+      "pos": 0.756,
+      "neu": 0.244,
+      "neg": 0.0,
+      "compound": 0.4754
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "nice"
+    ],
+    "timestamp": "2026-04-02T00:03:02.135172"
+  },
+  {
+    "id": 9,
+    "text": "I’m disappointed with the overall experience. The quality did not meet my expectations, and there were several issues that made it frustrating to use. The service felt unresponsive, and it seemed like customer concerns were not taken seriously. Additionally, the product did not deliver the value that was promised. I hope improvements are made, as this experience has made me hesitant to use it again.",
+    "sentiment": "Positive",
+    "score": 0.1734,
+    "details": {
+      "pos": 0.151,
+      "neu": 0.72,
+      "neg": 0.129,
+      "compound": 0.1734
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.4213,
+    "ai_features": {
+      "vocabulary_diversity": 0.7385,
+      "sentence_consistency": 0.2797,
+      "repetition": 0.0156,
+      "formality": 1.0,
+      "punctuation_regularity": 0.8
+    },
+    "ai_explanation": "Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "not",
+      "made",
+      "experience",
+      "use",
+      "i’m",
+      "disappointed",
+      "overall",
+      "quality"
+    ],
+    "timestamp": "2026-04-02T00:03:51.145570"
+  },
+  {
+    "id": 10,
+    "text": "This was a frustrating and disappointing experience from start to finish. The quality was poor, the service was unresponsive, and nothing worked as expected. It felt like a complete waste of time and effort, with no attention given to customer concerns. Overall, the experience was unsatisfactory and unacceptable.",
+    "sentiment": "Negative",
+    "score": -0.9287,
+    "details": {
+      "pos": 0.041,
+      "neu": 0.675,
+      "neg": 0.283,
+      "compound": -0.9287
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.4289,
+    "ai_features": {
+      "vocabulary_diversity": 0.7708,
+      "sentence_consistency": 0.2404,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.75
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "experience",
+      "frustrating",
+      "disappointing",
+      "start",
+      "finish",
+      "quality",
+      "poor",
+      "service"
+    ],
+    "timestamp": "2026-04-02T00:04:33.345953"
+  },
+  {
+    "id": 11,
+    "text": "Exceptional experience from start to finish. The lobby was elegant, the room was spacious and modern with all amenities. The spa services were top-notch and very relaxing. Staff remembered our names and preferences. Truly a premium hospitality experience.",
+    "sentiment": "Positive",
+    "score": 0.8622,
+    "details": {
+      "pos": 0.238,
+      "neu": 0.762,
+      "neg": 0.0,
+      "compound": 0.8622
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.3285,
+    "ai_features": {
+      "vocabulary_diversity": 0.8421,
+      "sentence_consistency": 0.1914,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.8
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Very regular punctuation patterns.",
+    "keywords": [
+      "experience",
+      "exceptional",
+      "start",
+      "finish",
+      "lobby",
+      "elegant",
+      "room",
+      "spacious"
+    ],
+    "timestamp": "2026-04-02T00:04:54.578174"
+  },
+  {
+    "id": 12,
+    "text": "This app is a disaster. It drains my battery in hours and uses way too much storage. Push notifications are excessive and annoying even after adjusting settings. The latest update broke core functionality. Feels like a beta product being sold as finished.",
+    "sentiment": "Negative",
+    "score": -0.7964,
+    "details": {
+      "pos": 0.05,
+      "neu": 0.758,
+      "neg": 0.192,
+      "compound": -0.7964
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.2113,
+    "ai_features": {
+      "vocabulary_diversity": 0.9524,
+      "sentence_consistency": 0.1718,
+      "repetition": 0.0,
+      "formality": 0.0,
+      "punctuation_regularity": 0.8
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Very regular punctuation patterns.",
+    "keywords": [
+      "app",
+      "disaster",
+      "drains",
+      "battery",
+      "hours",
+      "uses",
+      "way",
+      "much"
+    ],
+    "timestamp": "2026-04-02T00:05:15.387746"
+  },
+  {
+    "id": 13,
+    "text": "What a fantastic stay! From check-in to check-out, everything was seamless. The concierge helped us plan amazing day trips. The room had a gorgeous view and the bed was incredibly comfortable. The restaurant served delicious local cuisine. Five stars all the way!",
+    "sentiment": "Positive",
+    "score": 0.9651,
+    "details": {
+      "pos": 0.343,
+      "neu": 0.657,
+      "neg": 0.0,
+      "compound": 0.9651
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.2634,
+    "ai_features": {
+      "vocabulary_diversity": 0.8571,
+      "sentence_consistency": 0.1721,
+      "repetition": 0.0,
+      "formality": 0.0,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Very regular punctuation patterns.",
+    "keywords": [
+      "fantastic",
+      "stay",
+      "checkin",
+      "checkout",
+      "everything",
+      "seamless",
+      "concierge",
+      "helped"
+    ],
+    "timestamp": "2026-04-02T00:10:57.345051"
+  },
+  {
+    "id": 14,
+    "text": "The academic experience was solid with some brilliant professors, but campus life was lacking. Limited hostel capacity, average canteen, and few recreational facilities. However, the industry collaborations and internship opportunities were genuinely valuable.",
+    "sentiment": "Positive",
+    "score": 0.836,
+    "details": {
+      "pos": 0.27,
+      "neu": 0.673,
+      "neg": 0.056,
+      "compound": 0.836
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.5303,
+    "ai_features": {
+      "vocabulary_diversity": 0.9091,
+      "sentence_consistency": 0.144,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "academic",
+      "experience",
+      "solid",
+      "brilliant",
+      "professors",
+      "campus",
+      "life",
+      "lacking"
+    ],
+    "timestamp": "2026-04-02T00:13:24.992833"
+  },
+  {
+    "id": 15,
+    "text": "The academic experience was solid with some brilliant professors, but campus life was lacking. Limited hostel capacity, average canteen, and few recreational facilities. However, the industry collaborations and internship opportunities were genuinely valuable.",
+    "sentiment": "Positive",
+    "score": 0.836,
+    "details": {
+      "pos": 0.27,
+      "neu": 0.673,
+      "neg": 0.056,
+      "compound": 0.836
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.5303,
+    "ai_features": {
+      "vocabulary_diversity": 0.9091,
+      "sentence_consistency": 0.144,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "academic",
+      "experience",
+      "solid",
+      "brilliant",
+      "professors",
+      "campus",
+      "life",
+      "lacking"
+    ],
+    "timestamp": "2026-04-02T00:13:35.317469"
+  },
+  {
+    "id": 16,
+    "text": "Deeply unsatisfied with the service received. The team was unprofessional, showing up late and leaving a mess. Communication throughout was poor with contradictory information from different representatives. Pricing ended up being significantly higher than the original quote.",
+    "sentiment": "Negative",
+    "score": -0.8999,
+    "details": {
+      "pos": 0.048,
+      "neu": 0.651,
+      "neg": 0.3,
+      "compound": -0.8999
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.5482,
+    "ai_features": {
+      "vocabulary_diversity": 0.8649,
+      "sentence_consistency": 0.128,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.75
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "deeply",
+      "unsatisfied",
+      "service",
+      "received",
+      "team",
+      "unprofessional",
+      "showing",
+      "late"
+    ],
+    "timestamp": "2026-04-02T00:13:57.339865"
+  },
+  {
+    "id": 17,
+    "text": "this is not good,very bad ,not good",
+    "sentiment": "Positive",
+    "score": 0.1139,
+    "details": {
+      "pos": 0.278,
+      "neu": 0.488,
+      "neg": 0.235,
+      "compound": 0.1139
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 0.8571,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "not",
+      "goodvery",
+      "bad",
+      "good"
+    ],
+    "timestamp": "2026-04-02T00:14:37.737128"
+  },
+  {
+    "id": 18,
+    "text": "this is not good, very bad , not good",
+    "sentiment": "Negative",
+    "score": -0.1889,
+    "details": {
+      "pos": 0.221,
+      "neu": 0.432,
+      "neg": 0.347,
+      "compound": -0.1889
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.1857,
+    "ai_features": {
+      "vocabulary_diversity": 0.75,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0714,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "not",
+      "good",
+      "bad"
+    ],
+    "timestamp": "2026-04-02T00:15:01.717443"
+  },
+  {
+    "id": 19,
+    "text": "this is not good, very bad , not good",
+    "sentiment": "Negative",
+    "score": -0.1889,
+    "details": {
+      "pos": 0.221,
+      "neu": 0.432,
+      "neg": 0.347,
+      "compound": -0.1889
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.1857,
+    "ai_features": {
+      "vocabulary_diversity": 0.75,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0714,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "not",
+      "good",
+      "bad"
+    ],
+    "timestamp": "2026-04-02T08:06:13.071980"
+  },
+  {
+    "id": 20,
+    "text": "this is not good, very bad , not good",
+    "sentiment": "Negative",
+    "score": -0.1889,
+    "details": {
+      "pos": 0.221,
+      "neu": 0.432,
+      "neg": 0.347,
+      "compound": -0.1889
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.1857,
+    "ai_features": {
+      "vocabulary_diversity": 0.75,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0714,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "not",
+      "good",
+      "bad"
+    ],
+    "timestamp": "2026-04-02T08:06:31.054335"
+  },
+  {
+    "id": 21,
+    "text": "very good subject",
+    "sentiment": "Positive",
+    "score": 0.4927,
+    "details": {
+      "pos": 0.615,
+      "neu": 0.385,
+      "neg": 0.0,
+      "compound": 0.4927
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "good",
+      "subject"
+    ],
+    "timestamp": "2026-04-04T14:23:09.701658"
+  },
+  {
+    "id": 22,
+    "text": "very bad worst subject",
+    "sentiment": "Negative",
+    "score": -0.847,
+    "details": {
+      "pos": 0.0,
+      "neu": 0.197,
+      "neg": 0.803,
+      "compound": -0.847
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "bad",
+      "worst",
+      "subject"
+    ],
+    "timestamp": "2026-04-04T14:23:44.249208"
+  },
+  {
+    "id": 23,
+    "text": "Our family had an amazing time at this hotel. Kids loved the pool and play area. The family suite was perfect with separate sleeping areas. Room service was quick and the food was delicious. Location was convenient for sightseeing. Will definitely return!",
+    "sentiment": "Positive",
+    "score": 0.9661,
+    "details": {
+      "pos": 0.363,
+      "neu": 0.637,
+      "neg": 0.0,
+      "compound": 0.9661
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.2743,
+    "ai_features": {
+      "vocabulary_diversity": 0.8333,
+      "sentence_consistency": 0.154,
+      "repetition": 0.0,
+      "formality": 0.0,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Very regular punctuation patterns.",
+    "keywords": [
+      "family",
+      "amazing",
+      "time",
+      "hotel",
+      "kids",
+      "loved",
+      "pool",
+      "play"
+    ],
+    "timestamp": "2026-04-04T14:24:21.537050"
+  },
+  {
+    "id": 24,
+    "text": "Your work appears rushed and poorly thought out. The structure is disorganized, making it difficult to follow your ideas. There is little clarity in your writing, and key points are either missing or underdeveloped. It seems like minimal effort was put into refining or reviewing the content. The lack of detail and weak presentation reduce its impact significantly. It does not demonstrate a solid understanding of the subject and feels incomplete. Overall, it falls short of expectations and requires substantial revision to reach an acceptable level of quality and coherence.",
+    "sentiment": "Negative",
+    "score": -0.5326,
+    "details": {
+      "pos": 0.098,
+      "neu": 0.77,
+      "neg": 0.132,
+      "compound": -0.5326
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.5067,
+    "ai_features": {
+      "vocabulary_diversity": 0.7889,
+      "sentence_consistency": 0.2151,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.8571
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "work",
+      "appears",
+      "rushed",
+      "poorly",
+      "thought",
+      "structure",
+      "disorganized",
+      "making"
+    ],
+    "timestamp": "2026-04-04T14:26:19.301157"
+  },
+  {
+    "id": 25,
+    "text": "Your work shows clear effort and thoughtful engagement with the topic. The ideas are presented in a way that reflects creativity and a willingness to explore. There is a good foundation to build on, and with further refinement, it has the potential to become even more impactful and well-structured.",
+    "sentiment": "Positive",
+    "score": 0.93,
+    "details": {
+      "pos": 0.269,
+      "neu": 0.731,
+      "neg": 0.0,
+      "compound": 0.93
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.2921,
+    "ai_features": {
+      "vocabulary_diversity": 0.7959,
+      "sentence_consistency": 0.3326,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very regular punctuation patterns.",
+    "keywords": [
+      "work",
+      "shows",
+      "clear",
+      "effort",
+      "thoughtful",
+      "engagement",
+      "topic",
+      "ideas"
+    ],
+    "timestamp": "2026-04-04T14:26:54.690065"
+  },
+  {
+    "id": 26,
+    "text": "Your work shows clear effort and thoughtful engagement with the topic. The ideas are presented in a way that reflects creativity and a willingness to explore. There is a good foundation to build on, and with further refinement, it has the potential to become even more impactful and well-structured.",
+    "sentiment": "Positive",
+    "score": 0.93,
+    "details": {
+      "pos": 0.269,
+      "neu": 0.731,
+      "neg": 0.0,
+      "compound": 0.93
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.2921,
+    "ai_features": {
+      "vocabulary_diversity": 0.7959,
+      "sentence_consistency": 0.3326,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.6667
+    },
+    "ai_explanation": "Very regular punctuation patterns.",
+    "keywords": [
+      "work",
+      "shows",
+      "clear",
+      "effort",
+      "thoughtful",
+      "engagement",
+      "topic",
+      "ideas"
+    ],
+    "timestamp": "2026-04-04T14:40:06.759174"
+  },
+  {
+    "id": 27,
+    "text": "It was very durable and cheap.",
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "details": {
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0,
+      "compound": 0.0
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "durable",
+      "cheap"
+    ],
+    "timestamp": "2026-04-04T15:10:13.818257"
+  },
+  {
+    "id": 28,
+    "text": "very good subject",
+    "sentiment": "Positive",
+    "score": 0.4927,
+    "details": {
+      "pos": 0.615,
+      "neu": 0.385,
+      "neg": 0.0,
+      "compound": 0.4927
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "good",
+      "subject"
+    ],
+    "timestamp": "2026-04-04T16:13:06.932427"
+  },
+  {
+    "id": 29,
+    "text": "very bad worst subject",
+    "sentiment": "Negative",
+    "score": -0.847,
+    "details": {
+      "pos": 0.0,
+      "neu": 0.197,
+      "neg": 0.803,
+      "compound": -0.847
+    },
+    "ai_detection": "Human",
+    "ai_confidence": 0.175,
+    "ai_features": {
+      "vocabulary_diversity": 1.0,
+      "sentence_consistency": 0.5,
+      "repetition": 0.0,
+      "formality": 0.5,
+      "punctuation_regularity": 0.5
+    },
+    "ai_explanation": "Text shows natural variation in vocabulary and structure.",
+    "keywords": [
+      "bad",
+      "worst",
+      "subject"
+    ],
+    "timestamp": "2026-04-04T16:13:29.936724"
+  },
+  {
+    "id": 30,
+    "text": "Your work appears rushed and poorly thought out. The structure is disorganized, making it difficult to follow your ideas. There is little clarity in your writing, and key points are either missing or underdeveloped. It seems like minimal effort was put into refining or reviewing the content. The lack of detail and weak presentation reduce its impact significantly. It does not demonstrate a solid understanding of the subject and feels incomplete. Overall, it falls short of expectations and requires substantial revision to reach an acceptable level of quality and coherence.",
+    "sentiment": "Negative",
+    "score": -0.5326,
+    "details": {
+      "pos": 0.098,
+      "neu": 0.77,
+      "neg": 0.132,
+      "compound": -0.5326
+    },
+    "ai_detection": "Possibly AI",
+    "ai_confidence": 0.5067,
+    "ai_features": {
+      "vocabulary_diversity": 0.7889,
+      "sentence_consistency": 0.2151,
+      "repetition": 0.0,
+      "formality": 1.0,
+      "punctuation_regularity": 0.8571
+    },
+    "ai_explanation": "Very uniform sentence lengths typical of AI generation. Highly formal tone often associated with AI text. Very regular punctuation patterns.",
+    "keywords": [
+      "work",
+      "appears",
+      "rushed",
+      "poorly",
+      "thought",
+      "structure",
+      "disorganized",
+      "making"
+    ],
+    "timestamp": "2026-04-04T16:13:45.097713"
+  }
+]
